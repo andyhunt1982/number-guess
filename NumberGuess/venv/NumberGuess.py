@@ -1,5 +1,7 @@
 import random
 
+#TODO: get game into a definition
+
 answer: int = random.randint(1,100)
 guess = 0
 
